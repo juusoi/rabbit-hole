@@ -1,7 +1,7 @@
-# Codex Catalog
+# rabbit-hole
 
 ## Purpose
-Codex exists as a living catalog of reusable code snippets, boilerplate modules, and AI-focused instructions. Use it to bootstrap new projects, seed agent prompts, or document decision-making playbooks. Each entry must be concise, production-minded, and accompanied by the context that explains when to apply it.
+Repo exists as a living catalog of reusable code snippets, boilerplate modules, and AI-focused instructions. Use it to bootstrap new projects, seed agent prompts, or document decision-making playbooks. Each entry must be concise, production-minded, and accompanied by the context that explains when to apply it.
 
 ## Repository Layout
 | Path | What to store |
